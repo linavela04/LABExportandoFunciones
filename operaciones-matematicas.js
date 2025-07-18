@@ -6,3 +6,6 @@ const { PI } = require('./constantes');
 const areaCirculo = (radio) => PI * radio ** 2;
 module.exports = {sumar, restar, multiplicar, areaCirculo};
 
+//Ejercicio 3
+
+c
